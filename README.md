@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Barget20
+- 👋 Hi, I’m Brian
 - 👀 I’m interested in any new coding languages I can to help me pursue a career in tech. 
 - 🌱 I’m currently learning Full-stack Web Development at Career Foundry
 - 💞️ I’m looking to collaborate on future website builds and designs for miscellaenous things
