@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Brian
-- 👀 I’m interested in any new coding languages I can to help me pursue a career in tech. 
-- 🌱 I’m currently learning Full-stack Web Development at Career Foundry
-- 💞️ I’m looking to collaborate on future website builds and designs for miscellaenous things
-- 📫 How to reach me: It is easiest to reach out to me on my twitter account. I can also be reached at thecoachisba@gmail.com. 
+- 👀 I’m interested in any new coding languages I can to help me pursue a career in tech. I probably have the most experience using JavaScript. 
+- 🌱 I’m currently learning Full-stack Web Development at Career Foundry. 
+- 💞️ I prefer frontend development over backend development until I gain more experience in backend.  
+- 📫 How to reach me: It is easiest to reach out to me via email brian.argetsinger@gmail.com for serious inquiries.  
 
 <!---
 Barget20/Barget20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
