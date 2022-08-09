@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Brian
 - 👀 I’m interested in any new coding languages I can to help me pursue a career in tech. I probably have the most experience using JavaScript. 
-- 🌱 I’m currently learning Full-stack Web Development at Career Foundry. 
+- 🌱 I’ve recently finished a Full-stack Web Development bootcamp at Career Foundry. 
 - 💞️ I prefer frontend development over backend development until I gain more experience in backend.  
 - 📫 How to reach me: It is easiest to reach out to me via email brian.argetsinger@gmail.com for serious inquiries.  
 
